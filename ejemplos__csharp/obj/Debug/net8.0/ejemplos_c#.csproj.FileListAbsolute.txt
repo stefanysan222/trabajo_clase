@@ -1,0 +1,8 @@
+/Users/stefany/Desktop/ejemplos_c#/obj/Debug/net8.0/ejemplos_c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefany/Desktop/ejemplos_c#/obj/Debug/net8.0/ejemplos_c#.AssemblyInfoInputs.cache
+/Users/stefany/Desktop/ejemplos_c#/obj/Debug/net8.0/ejemplos_c#.AssemblyInfo.cs
+/Users/stefany/Desktop/ejemplos_c#/obj/Debug/net8.0/ejemplos_c#.csproj.CoreCompileInputs.cache
+/Users/stefany/Desktop/ejemplos__csharp/obj/Debug/net8.0/ejemplos_c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefany/Desktop/ejemplos__csharp/obj/Debug/net8.0/ejemplos_c#.AssemblyInfoInputs.cache
+/Users/stefany/Desktop/ejemplos__csharp/obj/Debug/net8.0/ejemplos_c#.AssemblyInfo.cs
+/Users/stefany/Desktop/ejemplos__csharp/obj/Debug/net8.0/ejemplos_c#.csproj.CoreCompileInputs.cache
